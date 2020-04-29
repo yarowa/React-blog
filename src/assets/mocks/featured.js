@@ -13,21 +13,21 @@ export default [
         date: moment().format('MM DD, YYYY'),
         categories: ['Cloud'],
         link: '#',
-        image: '2.jpeg'
+        image: '2.jpg'
     },
     {
         title: 'Popular programming language in 2020',
         date: moment().format('MM DD, YYYY'),
         categories: ['Tech Culture', 'Tech News'],
         link: '#',
-        image: '3.jpeg'
+        image: '3.jpg'
     },
     {
         title: 'Brain hacks for learning to program',
         date: moment().format('MM DD, YYYY'),
         categories: ['Brain Health'],
         link: '#',
-        image: '4.jpeg'
+        image: '4.jpg'
     },
 
 ]
